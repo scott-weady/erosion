@@ -5,7 +5,6 @@ if nargin < 2
   sc = 1;
 end
 
-% set(gcf,'defaultAxesFontSize',12*sc)
 set(groot,'defaultlinelinewidth',1.25*sc)
 set(groot,'defaultAxesLineWidth',1*sc)
 set(groot,'defaultAxesFontSize',8*sc)
